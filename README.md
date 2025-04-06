@@ -35,6 +35,6 @@ Published on Medium — A blend of data insights and real-life reflection.
 #### Let’s Connect
 Call me Bridget, a curious Resolution & Insight Analyst with a passion for breaking complexities in data.
 **_Find me on:_**
-- LinkedIn: (linkedin.com/in/datawithbridget)
-- Medium: (medium.com/@DataWithBridget)
+- LinkedIn: (https://www.linkedin.com/in/datawithbridget/)
+- Medium: (https://medium.com/@DataWithBridget/)
 - Email: (datawithbridget@gmail.com)
