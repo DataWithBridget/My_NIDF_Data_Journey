@@ -6,7 +6,7 @@
 * Tools Used: Python, Pandas, Seaborn, Plotly, Excel
 * Data Source: CHD NIDF (2020–2024)
 
-### Overview
+
 “In 2017, I sat for my JAMB exam dreaming of a BSc. in Economics. That same year, Nigeria's first infrastructure debt fund was born. Fast forward to 2025, I began asking— **"How has this fund performed over time, and what does it mean for an investor?"**
 
 ### Project Overview
