@@ -29,8 +29,10 @@ The NIDF isn’t just about financial metrics—it tells a story of progress:
 * Policy and Private Sector Synergy: Reflects successful public-private_partnership (PPP).
 
 #### Read More on Medium
-The Nigeria Infrastructure Debt Fund: A 2017 Start, A Steady Climb
-Published on Medium — A blend of data insights and real-life reflection.
+https://medium.com/@DataWithBridget/from-jamb-to-nidf-60e8693d437b
+
+#### Explore the NIDF
+https://nidf.ng/about/
 
 #### Let’s Connect
 Call me Bridget, a curious Resolution & Insight Analyst with a passion for breaking complexities in data.
