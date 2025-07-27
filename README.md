@@ -7,7 +7,7 @@
 * **Author:** Chioma (Bridget) Nwankwo
 * **Timeline:** April 2025 – Present
 * **Tools Used:** Python, Pandas, Seaborn, Plotly, Matplotlib, Excel
-* **Data Source:** CHD NIDF (2020–2024) and FGNSB rates
+* **Data Source:** CHD NIDF (2020–2025) and FGNSB rates
 
 ---
 
@@ -50,7 +50,7 @@ The second project expands outward, exploring how *different investor archetypes
 
 ### **Key focus areas**:
 
-* Comparative simulations of multiple strategies (2020–2024)
+* Comparative simulations of multiple strategies (2020–2025)
 * Reinvestment behaviours (none, partial, full)
 * Visual growth trajectories and behavioural insights
 * Combined analysis of NIDF data with FGNSB coupon rates
