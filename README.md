@@ -4,10 +4,10 @@
 
 *A multi‑phase exploration of Nigeria’s first listed Infrastructure Debt Fund*
 
-**Author:** Chioma (Bridget) Nwankwo
-**Timeline:** April 2025 – Present
-**Tools Used:** Python, Pandas, Seaborn, Plotly, Matplotlib, Excel
-**Data Source:** CHD NIDF (2020–2024) and FGNSB rates
+* **Author:** Chioma (Bridget) Nwankwo
+* **Timeline:** April 2025 – Present
+* **Tools Used:** Python, Pandas, Seaborn, Plotly, Matplotlib, Excel
+* **Data Source:** CHD NIDF (2020–2024) and FGNSB rates
 
 ---
 
