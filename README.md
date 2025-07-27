@@ -7,7 +7,7 @@
 * **Author:** Chioma (Bridget) Nwankwo
 * **Timeline:** April 2025 – Present
 * **Tools Used:** Python, Pandas, Seaborn, Plotly, Matplotlib, Excel
-* **Data Source:** CHD NIDF (2020–2025) and FGNSB rates
+* **Data Source (2020–2025):** CHD NIDF  and FGNSB rates
 
 ---
 
