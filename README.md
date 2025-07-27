@@ -1,35 +1,74 @@
-# My_NIDF_Data_Journey
+---
+# My NIDF Data Journey
+---
 
-# From JAMB to NIDF: A Peek into the first listed Nigeria Infrastructural Debt Fund
-* Author: Chioma (Bridget) Nwankwo
-* Project Duration: April 2025
-* Tools Used: Python, Pandas, Seaborn, Plotly, Excel
-* Data Source: CHD NIDF (2020–2024)
+*A multi‑phase exploration of Nigeria’s first listed Infrastructure Debt Fund*
 
+**Author:** Chioma (Bridget) Nwankwo
+**Timeline:** April 2025 – Present
+**Tools Used:** Python, Pandas, Seaborn, Plotly, Matplotlib, Excel
+**Data Source:** CHD NIDF (2020–2024) and FGNSB rates
 
-“In 2017, I sat for my JAMB exam dreaming of a BSc. in Economics. That same year, Nigeria's first infrastructure debt fund was born. Fast forward to 2025, I began asking— **"How has this fund performed over time, and what does it mean for an investor?"**
+---
 
-### Project Overview
-This repository explores the performance of the Nigeria Infrastructure Debt Fund (NIDF) from 2020 to 2024 using real quarterly data. It simulates a systematic investment strategy over this period alongside analysis of key fund trends:
-* Net Asset Value (NAV)
-* Dividend payouts
-* Yield patterns
-* Fund growth trajectory
-* Units in Issue
- 
-### Objectives
-* Track the quarterly performance of the NIDF from 2020–2024.
-* Simulate a recurring investment habit using a fictional investor profile.
-* Compare capital invested vs. total returns and income received.
+## Background
 
-### Why This Project Matters
-The NIDF isn’t just about financial metrics—it tells a story of progress:
-* Infrastructure Financing: Shows how debt capital can meet Nigeria’s pressing infrastructure needs.
-* Retail Investment Case: Demonstrates the value of patient capital for local investors.
-* Policy and Private Sector Synergy: Reflects successful public-private_partnership (PPP).
+In 2017, I sat for my JAMB exam dreaming of a BSc. in Economics. That same year, Nigeria’s first Infrastructure Debt Fund (NIDF) was launched. Currently the NIDF has been listed on the NGX.
+Fast forward to 2025, curiosity led me to begin analysing the fund, first through my own eyes, and then by simulating other investor types.
+
+This repository documents my journey in two phases:
+
+---
+
+## **Project 1: NIDF and Me**
+
+The first project looks inward, answering:
+
+> *“If I had invested in NIDF consistently since 2020, how would my portfolio have grown?”*
+
+### **Key focus areas**:
+
+* Quarterly NAV trends and dividend payouts
+* Simulated recurring investment strateg per quarter)
+* Comparison of capital invested vs. total returns
+* Understanding yield patterns and fund growth trajectory
+
+This project set the foundation for understanding the fund’s behaviour over time and the potential for patient retail investing.
+
+---
+
+## **Project 2: NIDF and You**
+
+The second project expands outward, exploring how *different investor archetypes* might experience the fund when combined with other options like FGNSB (Federal Government Savings Bonds) and a savings account.
+
+### **Investor profiles simulated**:
+
+* Amara — Conservative cash saver
+* Tejiro — FGNSB only bondholder
+* David — NIDF dividend reinvestor
+* Iornum, Ewan, Obongawan, Olayinmika — Balanced portfolios with varying allocations
+
+### **Key focus areas**:
+
+* Comparative simulations of multiple strategies (2020–2024)
+* Reinvestment behaviours (none, partial, full)
+* Visual growth trajectories and behavioural insights
+* Combined analysis of NIDF data with FGNSB coupon rates
+
+This phase moves the conversation from *“me”* to *“us”*, showing how behaviour, not just markets, shapes investment outcomes.
+
+---
+
+### Why This Journey Matters
+
+* **Infrastructure Financing:** Demonstrates how retail investors can participate in Nigeria’s infrastructure growth.
+* **Investor Education:** Breaks down bonds and fund mechanics into relatable narratives.
+* **Behavioural Insights:** Highlights the real impact of patience, risk appetite, and reinvestment decisions on wealth building.
+
+---
 
 #### Read More on Medium
-https://medium.com/@DataWithBridget/from-jamb-to-nidf-60e8693d437b
+https://medium.com/@DataWithBridget/
 
 #### Explore the NIDF
 https://nidf.ng/about/
